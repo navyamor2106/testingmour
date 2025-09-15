@@ -13,6 +13,6 @@ print(now)
 
 class Greeting:
     def greet(self, name):
-        return 'Hello ' + 'name'
+        return 'Hello ' + ' name'
 
 print(Greeting().greet('name'))
